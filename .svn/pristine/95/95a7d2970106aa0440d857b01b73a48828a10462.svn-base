@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file:///algos/web/webrosa/webrosa.iml" filepath="/algos/web/webrosa/webrosa.iml" />
+      <module fileurl="file:///algos/web/webrosa/webrosa-grailsPlugins.iml" filepath="/algos/web/webrosa/webrosa-grailsPlugins.iml" />
+    </modules>
+  </component>
+</project>
+
